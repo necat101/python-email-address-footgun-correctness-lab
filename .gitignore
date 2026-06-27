@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+cases.json
+cases_out/
+*.tmp
+.DS_Store
