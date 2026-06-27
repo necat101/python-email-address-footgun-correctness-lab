@@ -21,7 +21,9 @@ Results written to RESULTS.md
 
 Verified commit: 76c5506d9220744765aef48710c67aee013aa9be
 
-This commit contains the lab code, cases, and RESULTS.md. It was fresh-clone verified with 636/636 pass.
+This commit (76c5506) contains the lab code, cases, and RESULTS.md. It was fresh-clone verified with 636/636 pass.
+
+Current HEAD only adds this VERIFY.md file on top of 76c5506 – code and results are unchanged. I locally re-ran HEAD with identical 636/636 pass results, but that run is NOT captured in the transcript above.
 
 Python: 3.12.3  
 Platform: Linux-6.17.0-1009-aws-x86_64-with-glibc2.39
